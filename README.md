@@ -1,27 +1,27 @@
-<h1 align="center"> 👋Hi, I'm Moayad Alaa Alden</h1>
+<h1 align="center">👋 Hi, I'm Moayad Alaa Alden</h1>
 
 <p align="center">
-Flutter Developer • Linux Enthusiast • IT Support • Aspiring Full-Stack Engineer
+Backend Developer (Laravel) • Linux Enthusiast • IT Support • Exploring DevOps
 </p>
 
 ---
 
-I'm a **Palestinian IT Engineering student** 🇵🇸 currently based in **Syria** 🇸🇾, passionate about building software and continuously expanding my expertise across modern technologies.
+I'm a **Palestinian IT Engineering student** 🇵🇸 currently based in **Syria** 🇸🇾, passionate about building solid software and continuously deepening my technical foundations.
 
-My primary focus is **Flutter** development, where I enjoy creating fast, responsive, and user-friendly cross-platform applications. Alongside mobile development, I'm strengthening my expertise in **Linux**, **system administration**, **DevOps**, **networking**, and **backend development**.
-
-I enjoy solving technical challenges, contributing to open-source projects, and building practical software. My goal is to become a **Full-Stack Software Engineer** with a strong foundation in mobile development, backend systems, Linux, and DevOps.
+My current focus is **backend development with Laravel**, where I'm working on strengthening my skills in **databases**, **networking fundamentals**, **problem solving**, **clean code**, and **design patterns**. My goal is to go deep into backend engineering, with **DevOps** as a direction I'm interested in exploring further down the road.
 
 ---
 
 ## 🚀 About Me
 
-- 📱 Developing cross-platform applications with **Flutter** and **Dart**.
-- 🐧 Advanced Linux user with solid experience in **system administration**, **Bash scripting**, and troubleshooting.
-- 🛠️ Strong background in **IT Support**, hardware/software troubleshooting, and technical problem-solving.
-- 🌐 Passionate about **DevOps**, **Networking**, automation, and cloud technologies.
-- 💻 Currently learning **backend development**, software architecture, and modern engineering practices.
-- 🌍 Open-source contributor who enjoys building practical software and collaborating with the community.
+- 🧩 Learning and building backend applications with **Laravel** (PHP).
+- 🗄️ Working on strengthening my understanding of **databases** and how to design them well.
+- 🌐 Studying **networking** fundamentals as part of building a solid backend foundation.
+- 🧠 Focusing on **problem solving**, **clean code**, and **design patterns**.
+- ⚙️ Curious about **DevOps** as a possible future direction alongside backend engineering.
+- 🐧 Advanced Linux user with experience in **system administration**, **Bash scripting**, and troubleshooting.
+- 🛠️ Background in **IT Support**, hardware/software troubleshooting, and technical problem-solving.
+- 🌍 Interested in contributing to open-source projects and building practical software.
 
 ---
 
@@ -39,8 +39,9 @@ I enjoy solving technical challenges, contributing to open-source projects, and 
 ---
 
 # 💻 Tech Stack
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
